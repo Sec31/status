@@ -8,8 +8,8 @@ sites:
 status-website:
   cname: status.section31.earth
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: "S31: System Status"
+  introTitle: "Section 31 System Status"
   introMessage: "Welcome to Section 31's home for real-time and historical data on system performance."
   navbar:
     - title: Status
