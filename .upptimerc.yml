@@ -4,6 +4,14 @@ repo: status
 sites:
   - name: "TNR: Pterodactyl Panel"
     url: https://panel.truenorthroleplay.net
+  - name: "EXT: Rex's ARK"
+    url: https://panel.truenorthroleplay.net/api/client/servers/$PTYL_REXARK_UUID/resources
+    headers:
+      - "Authorization: Bearer $PTYL_CLIENT_KEY"
+      - "Content-Type: application/json"
+      - "Accept: application/json"
+    __dangerous__body_down: "running"
+    __dangerous__body_degraded: "starting"
 
 status-website:
   cname: status.section31.earth
@@ -14,6 +22,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+      
+commitMessages:
+  commitAuthorName: "CMDR Data"
+  commitAuthorEmail: "cmdr_data@section31.earth"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
