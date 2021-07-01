@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 829,
-    "timeWeek": 829,
-    "timeMonth": 829,
-    "timeYear": 829,
+    "time": 778,
+    "timeDay": 778,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "EXT: Rex's ARK",
-    "url": "https://panel.truenorthroleplay.net/api/client/servers/$PTYL_REXARK_UUID/resources",
-    "icon": "https://favicons.githubusercontent.com/panel.truenorthroleplay.net",
-    "slug": "ext-rex-s-ark",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 459,
-    "timeDay": 459,
-    "timeWeek": 459,
-    "timeMonth": 459,
-    "timeYear": 459,
-    "dailyMinutesDown": {
-      "2021-07-01": 1
-    }
   }
 ]
