@@ -1,9 +1,20 @@
 owner: Sec31
 repo: status
+user-agent: S31-Data
 
 sites:
   - name: "TNR: Pterodactyl Panel"
     url: https://panel.truenorthroleplay.net
+    icon: https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png
+    assignees:
+      - ItsAGeekThing
+  - name: "TNR: Pterodactyl Wings (Node #01)"
+    url: $PTYL_WINGS1
+    icon: https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png
+    expectedStatusCodes:
+      - 401
+    assignees:
+      - ItsAGeekThing
   - name: "EXT: Rex's ARK"
     url: https://panel.truenorthroleplay.net/api/client/servers/$PTYL_REXARK_UUID/resources
     headers:
@@ -12,6 +23,8 @@ sites:
       - "Accept: application/json"
     __dangerous__body_down: "stopped"
     __dangerous__body_degraded: "starting"
+    assignees:
+      - T-MrRex
 
 status-website:
   cname: status.section31.earth
