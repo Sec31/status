@@ -10,7 +10,7 @@ sites:
       - "Authorization: Bearer $PTYL_CLIENT_KEY"
       - "Content-Type: application/json"
       - "Accept: application/json"
-    __dangerous__body_down: "running"
+    __dangerous__body_down: "stopped"
     __dangerous__body_degraded: "starting"
 
 status-website:
