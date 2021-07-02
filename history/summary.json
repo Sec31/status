@@ -4,18 +4,20 @@
     "url": "https://panel.truenorthroleplay.net",
     "icon": "https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png",
     "slug": "tnr-pterodactyl-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 863,
-    "timeWeek": 812,
-    "timeMonth": 812,
-    "timeYear": 812,
-    "dailyMinutesDown": {}
+    "time": 1077,
+    "timeDay": 2031,
+    "timeWeek": 1077,
+    "timeMonth": 1077,
+    "timeYear": 1077,
+    "dailyMinutesDown": {
+      "2021-07-02": 0
+    }
   },
   {
     "name": "TNR: Pterodactyl Wings (Node #01)",
