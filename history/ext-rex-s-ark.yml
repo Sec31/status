@@ -1,7 +1,7 @@
 url: https://panel.truenorthroleplay.net/api/client/servers/$PTYL_REXARK_UUID/resources
-status: down
-code: 504
-responseTime: 20322
-lastUpdated: 2021-08-06T15:00:33.363Z
+status: up
+code: 200
+responseTime: 9414
+lastUpdated: 2021-08-06T16:02:11.676Z
 startTime: Thu Jul 01 2021 01:06:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
