@@ -1,6 +1,7 @@
 owner: Sec31
 repo: status
 user-agent: S31-Data
+theme: dark
 
 sites:
   - name: "TNR: Pterodactyl Panel"
@@ -25,6 +26,11 @@ sites:
     __dangerous__body_degraded: "starting"
     assignees:
       - T-MrRex
+  - name: "MeshCentral (RMM)"
+    url: $RMM
+    icon: https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383
+    assignees:
+      - ItsAGeekThing
 
 status-website:
   cname: status.section31.earth
