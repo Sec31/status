@@ -29,6 +29,9 @@ sites:
   - name: "MeshCentral (RMM)"
     url: $RMM
     icon: https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383
+    expectedStatusCodes:
+      - 503
+      - 200
     assignees:
       - ItsAGeekThing
 
