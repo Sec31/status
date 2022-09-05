@@ -9,17 +9,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
-    "time": 359,
-    "timeDay": 76,
-    "timeWeek": 101,
-    "timeMonth": 109,
-    "timeYear": 141,
+    "uptimeYear": "99.82%",
+    "time": 358,
+    "timeDay": 144,
+    "timeWeek": 104,
+    "timeMonth": 110,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2021-09-29": 748,
       "2021-09-17": 17,
-      "2021-09-12": 106,
-      "2021-09-05": 131
+      "2021-09-12": 106
     }
   },
   {
@@ -28,7 +27,7 @@
     "icon": "https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png",
     "slug": "tnr-pterodactyl-wings-node-01",
     "status": "down",
-    "uptime": "20.23%",
+    "uptime": "20.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-09-04": 61,
+      "2022-09-05": 72,
+      "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
@@ -377,8 +377,7 @@
       "2021-10-04": 1440,
       "2021-10-03": 1021,
       "2021-09-17": 16,
-      "2021-09-12": 106,
-      "2021-09-05": 131
+      "2021-09-12": 106
     }
   },
   {
@@ -387,18 +386,19 @@
     "icon": "https://favicons.githubusercontent.com/panel.truenorthroleplay.net",
     "slug": "ext-rex-s-ark",
     "status": "down",
-    "uptime": "19.26%",
+    "uptime": "19.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.55%",
     "time": 269,
-    "timeDay": 15,
-    "timeWeek": 27,
-    "timeMonth": 25,
-    "timeYear": 50,
+    "timeDay": 29,
+    "timeWeek": 28,
+    "timeMonth": 26,
+    "timeYear": 41,
     "dailyMinutesDown": {
-      "2022-09-04": 61,
+      "2022-09-05": 72,
+      "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
@@ -740,8 +740,7 @@
       "2021-09-30": 1440,
       "2021-09-29": 1342,
       "2021-09-17": 15,
-      "2021-09-12": 105,
-      "2021-09-05": 131
+      "2021-09-12": 105
     }
   },
   {
@@ -750,18 +749,19 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "37.57%",
+    "uptime": "37.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.16%",
+    "uptimeYear": "33.89%",
     "time": 217,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 210,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2022-09-04": 61,
+      "2022-09-05": 72,
+      "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
