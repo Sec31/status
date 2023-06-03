@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 91,
-    "timeWeek": 103,
-    "timeMonth": 82,
+    "timeDay": 123,
+    "timeWeek": 104,
+    "timeMonth": 84,
     "timeYear": 96,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png",
     "slug": "tnr-pterodactyl-wings-node-01",
     "status": "down",
-    "uptime": "12.41%",
+    "uptime": "12.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-02": 54,
+      "2023-06-03": 52,
+      "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -397,8 +398,7 @@
       "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
-      "2022-06-04": 1440,
-      "2022-06-03": 1440
+      "2022-06-04": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.truenorthroleplay.net.ico",
     "slug": "ext-rex-s-ark",
     "status": "down",
-    "uptime": "11.82%",
+    "uptime": "11.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 23,
-    "timeDay": 17,
-    "timeWeek": 15,
+    "timeDay": 10,
+    "timeWeek": 14,
     "timeMonth": 17,
-    "timeYear": 23,
+    "timeYear": 22,
     "dailyMinutesDown": {
-      "2023-06-02": 54,
+      "2023-06-03": 52,
+      "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -781,8 +782,7 @@
       "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
-      "2022-06-04": 1440,
-      "2022-06-03": 1440
+      "2022-06-04": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "22.05%",
+    "uptime": "22.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-02": 54,
+      "2023-06-03": 52,
+      "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -1165,8 +1166,7 @@
       "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
-      "2022-06-04": 1440,
-      "2022-06-03": 1440
+      "2022-06-04": 1440
     }
   }
 ]
