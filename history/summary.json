@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 51,
-    "timeWeek": 55,
+    "timeDay": 57,
+    "timeWeek": 57,
     "timeMonth": 81,
-    "timeYear": 89,
+    "timeYear": 88,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png",
     "slug": "tnr-pterodactyl-wings-node-01",
     "status": "down",
-    "uptime": "10.76%",
+    "uptime": "10.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-17": 41,
+      "2023-09-18": 39,
+      "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -397,8 +398,7 @@
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
-      "2022-09-19": 1440,
-      "2022-09-18": 1440
+      "2022-09-19": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.truenorthroleplay.net.ico",
     "slug": "ext-rex-s-ark",
     "status": "down",
-    "uptime": "10.25%",
+    "uptime": "10.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 22,
-    "timeDay": 17,
+    "timeDay": 13,
     "timeWeek": 13,
     "timeMonth": 17,
     "timeYear": 19,
     "dailyMinutesDown": {
-      "2023-09-17": 41,
+      "2023-09-18": 39,
+      "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -781,8 +782,7 @@
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
-      "2022-09-19": 1440,
-      "2022-09-18": 1440
+      "2022-09-19": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "18.96%",
+    "uptime": "18.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-17": 41,
+      "2023-09-18": 39,
+      "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -1165,8 +1166,7 @@
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
-      "2022-09-19": 1440,
-      "2022-09-18": 1440
+      "2022-09-19": 1440
     }
   }
 ]
