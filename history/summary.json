@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 51,
-    "timeWeek": 96,
+    "timeDay": 111,
+    "timeWeek": 102,
     "timeMonth": 82,
     "timeYear": 86,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png",
     "slug": "tnr-pterodactyl-wings-node-01",
     "status": "down",
-    "uptime": "8.33%",
+    "uptime": "8.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-10": 42,
+      "2024-05-11": 42,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -397,8 +398,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -413,12 +413,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 17,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 17,
+    "timeDay": 15,
+    "timeWeek": 20,
+    "timeMonth": 16,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2024-05-10": 42,
+      "2024-05-11": 42,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -781,8 +782,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "14.48%",
+    "uptime": "14.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-10": 42,
+      "2024-05-11": 42,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -1165,8 +1166,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   }
 ]
