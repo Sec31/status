@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 130,
-    "timeWeek": 89,
-    "timeMonth": 85,
+    "timeDay": 112,
+    "timeWeek": 93,
+    "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {}
   },
@@ -26,7 +26,7 @@
     "uptime": "7.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 51,
+      "2024-07-01": 52,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -397,8 +398,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -410,15 +410,16 @@
     "uptime": "7.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 17,
-    "timeDay": 19,
+    "timeDay": 15,
     "timeWeek": 19,
     "timeMonth": 17,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2024-06-30": 51,
+      "2024-07-01": 52,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -781,8 +782,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -791,10 +791,10 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "13.78%",
+    "uptime": "13.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 51,
+      "2024-07-01": 52,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -1165,8 +1166,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   }
 ]
