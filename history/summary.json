@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 80,
-    "timeWeek": 103,
-    "timeMonth": 113,
-    "timeYear": 91,
+    "timeDay": 61,
+    "timeWeek": 92,
+    "timeMonth": 111,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-02": 53,
+      "2024-09-03": 51,
+      "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -397,8 +398,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.truenorthroleplay.net.ico",
     "slug": "ext-rex-s-ark",
     "status": "down",
-    "uptime": "7.15%",
+    "uptime": "7.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 17,
-    "timeDay": 17,
-    "timeWeek": 17,
+    "timeDay": 15,
+    "timeWeek": 16,
     "timeMonth": 17,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2024-09-02": 53,
+      "2024-09-03": 51,
+      "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -781,8 +782,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "12.98%",
+    "uptime": "12.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-02": 53,
+      "2024-09-03": 51,
+      "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -1165,8 +1166,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   }
 ]
