@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 121,
-    "timeWeek": 111,
+    "timeDay": 138,
+    "timeWeek": 116,
     "timeMonth": 105,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-19": 58,
+      "2024-12-20": 55,
+      "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -397,8 +398,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.truenorthroleplay.net.ico",
     "slug": "ext-rex-s-ark",
     "status": "down",
-    "uptime": "6.54%",
+    "uptime": "6.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 18,
-    "timeDay": 19,
+    "timeDay": 18,
     "timeWeek": 18,
     "timeMonth": 21,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2024-12-19": 58,
+      "2024-12-20": 55,
+      "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -781,8 +782,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "11.84%",
+    "uptime": "11.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-19": 58,
+      "2024-12-20": 55,
+      "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -1165,8 +1166,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   }
 ]
