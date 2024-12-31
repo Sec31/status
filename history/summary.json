@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 104,
-    "timeWeek": 91,
+    "timeDay": 89,
+    "timeWeek": 92,
     "timeMonth": 102,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -23,10 +23,10 @@
     "icon": "https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png",
     "slug": "tnr-pterodactyl-wings-node-01",
     "status": "down",
-    "uptime": "6.81%",
+    "uptime": "6.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-30": 57,
+      "2024-12-31": 55,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -397,8 +398,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -410,15 +410,16 @@
     "uptime": "6.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 18,
     "timeDay": 13,
-    "timeWeek": 19,
+    "timeWeek": 18,
     "timeMonth": 20,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2024-12-30": 57,
+      "2024-12-31": 55,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -781,8 +782,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -791,10 +791,10 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "11.73%",
+    "uptime": "11.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-30": 57,
+      "2024-12-31": 55,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -1165,8 +1166,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   }
 ]
