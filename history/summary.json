@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 140,
-    "timeWeek": 121,
-    "timeMonth": 128,
-    "timeYear": 158,
+    "timeDay": 100,
+    "timeWeek": 126,
+    "timeMonth": 125,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://panel.truenorthroleplay.net/favicons/apple-touch-icon.png",
     "slug": "tnr-pterodactyl-wings-node-01",
     "status": "down",
-    "uptime": "4.96%",
+    "uptime": "4.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 116,
+      "2026-04-22": 114,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -397,8 +398,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   },
   {
@@ -413,12 +413,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 38,
-    "timeDay": 5,
-    "timeWeek": 8,
+    "timeDay": 13,
+    "timeWeek": 10,
     "timeMonth": 10,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2026-04-21": 116,
+      "2026-04-22": 114,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -781,8 +782,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://lh6.googleusercontent.com/qGnfHdDbr7Wl5iCspGZc7GUJuy67QUEu-Pp1Ju7chXOb2b8zLbHIXST-MhqIcE6NPLDMVQ=w16383",
     "slug": "mesh-central-rmm",
     "status": "down",
-    "uptime": "8.46%",
+    "uptime": "8.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 116,
+      "2026-04-22": 115,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -1165,8 +1166,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   }
 ]
